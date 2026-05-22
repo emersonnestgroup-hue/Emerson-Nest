@@ -1,0 +1,6 @@
+{
+  "name": "Portail Scolaire Intégral",
+  "description": "Plateforme de gestion et d'administration scolaire fluide entre la direction, les enseignants et les parents d'élèves.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
